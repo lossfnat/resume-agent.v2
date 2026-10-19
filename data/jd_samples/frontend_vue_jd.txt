@@ -1,0 +1,12 @@
+职位：Vue 前端开发工程师
+
+岗位职责：
+1. 负责中后台系统前端开发
+2. 基于 Vue 3 + Element Plus 构建业务组件
+3. 负责前端组件库建设与维护
+
+任职要求：
+- 1 年以上 Vue 开发经验
+- 熟悉 Vue 3、TypeScript、Element Plus
+- 了解 Vite、Pinia、Vue Router
+- 有中后台项目经验优先

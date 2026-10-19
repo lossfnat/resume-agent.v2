@@ -1,0 +1,10 @@
+{"query": "Java 后端工程师岗位要求 Spring 微服务 高并发", "relevant_ids": ["backend_java_jd.txt"]}
+{"query": "Python FastAPI 后端开发工程师招聘", "relevant_ids": ["backend_python_jd.txt"]}
+{"query": "React 前端工程师 TypeScript Next.js", "relevant_ids": ["frontend_react_jd.txt"]}
+{"query": "Vue 前端工程师招聘 Element Plus", "relevant_ids": ["frontend_vue_jd.txt"]}
+{"query": "机器学习算法工程师 NLP 推荐系统 深度学习", "relevant_ids": ["ml_engineer_jd.txt"]}
+{"query": "大数据工程师 ETL Spark Flink Hive 数据仓库", "relevant_ids": ["data_engineer_jd.txt"]}
+{"query": "全栈工程师 React Node Python PostgreSQL", "relevant_ids": ["fullstack_jd.txt"]}
+{"query": "DevOps 平台工程师 Kubernetes Docker CI/CD", "relevant_ids": ["devops_jd.txt"]}
+{"query": "后端工程师 微服务 分布式 高并发", "relevant_ids": ["backend_java_jd.txt", "backend_python_jd.txt"]}
+{"query": "前端工程师 TypeScript 工程化", "relevant_ids": ["frontend_react_jd.txt", "frontend_vue_jd.txt"]}

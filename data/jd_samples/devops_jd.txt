@@ -1,0 +1,15 @@
+职位：DevOps 平台工程师
+
+岗位职责：
+1. 负责公司 CI/CD 流水线建设
+2. 基于 Kubernetes 构建容器编排平台
+3. 负责监控告警体系建设
+4. 推动开发流程自动化
+
+任职要求：
+- 2 年以上 DevOps 经验
+- 熟悉 Kubernetes、Docker
+- 熟悉 CI/CD 工具（Jenkins / GitLab CI）
+- 熟悉 Linux、Shell 脚本
+- 有 Prometheus、Grafana 监控经验加分
+- 熟悉 Terraform / Ansible 优先

@@ -1,0 +1,14 @@
+职位：大数据工程师
+
+岗位职责：
+1. 负责数据仓库建设与 ETL 流水线开发
+2. 基于 Spark / Flink 构建实时数据处理系统
+3. 参与数据中台建设
+
+任职要求：
+- 2 年以上大数据开发经验
+- 熟悉 Spark、Flink、Hive
+- 熟悉 ETL 流程设计
+- 了解 Kafka、ClickHouse
+- 熟悉 Python / Java / Scala
+- 有数据中台、实时计算经验优先

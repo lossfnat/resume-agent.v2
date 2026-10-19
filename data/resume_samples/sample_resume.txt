@@ -1,0 +1,49 @@
+姓名：张三
+邮箱：zhangsan@example.com
+电话：138-0000-0001
+求职意向：Python 后端开发工程师
+
+【教育经历】
+2020.09 - 2024.06  XX大学  计算机科学与技术  本科
+
+【专业技能】
+- 精通 Python，熟悉 asyncio、Type Hints、装饰器。
+- 熟练使用 FastAPI、Django 框架。
+- 熟悉 PostgreSQL、MySQL 数据库，了解 SQLAlchemy ORM。
+- 熟悉 Redis、Celery 异步任务。
+- 熟悉 Docker、Kubernetes 基本使用。
+- 有 LlamaIndex / RAG 应用开发经验。
+
+【项目经历】
+
+项目一：AI 简历优化 Agent（2024.05 - 2024.08）
+- 项目描述：基于 LlamaIndex + FastAPI + Streamlit 的简历优化系统，用户上传 JD 与简历，
+  自动给出结构化修改建议。
+- 我的职责：
+  - 设计并实现 JD 技能抽取、向量召回、简历比对、建议生成全流程。
+  - 使用 pgvector / Milvus 作为知识库向量存储，召回准确率达 87%。
+  - 通过规则 + LLM 混合模式生成建议，避免无 API Key 场景下也能跑通。
+- 技术栈：Python、FastAPI、LlamaIndex、pgvector、Streamlit。
+
+项目二：高并发订单系统重构（2024.03 - 2024.05）
+- 项目描述：将原有单体订单系统拆分为微服务，QPS 从 200 提升到 1500。
+- 我的职责：
+  - 使用 Redis 缓存热点商品数据，缓存命中率 92%。
+  - 引入 Kafka 削峰填谷，订单峰值写入抗住 3000 QPS。
+  - 通过分库分表 + 索引优化，慢查询数量下降 70%。
+- 技术栈：Python、Django、Redis、Kafka、MySQL、Docker。
+
+项目三：内部数据中台（2023.09 - 2024.02）
+- 项目描述：为公司各部门提供统一数据查询、可视化与导出服务。
+- 我的职责：
+  - 使用 Pandas + Airflow 搭建 ETL 流水线。
+  - 设计 RESTful API，对接 8 个业务方。
+  - 实现权限、限流、审计日志。
+
+【实习经历】
+2023.06 - 2023.09  XX科技  后端开发实习生
+- 参与用户中心模块开发，修复 30+ Bug。
+- 编写单元测试，覆盖率从 50% 提升到 80%。
+
+【个人评价】
+学习能力强，对 AI 应用工程化有热情，GitHub 有持续开源贡献。

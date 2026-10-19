@@ -1,0 +1,14 @@
+职位：全栈开发工程师
+
+岗位职责：
+1. 负责产品端到端开发
+2. 前端使用 React / Vue，后端使用 Python / Node.js
+3. 独立负责小型项目交付
+
+任职要求：
+- 2 年以上全栈开发经验
+- 熟悉 React / Vue + Node.js
+- 熟悉 Python FastAPI / Django 加分
+- 熟悉 PostgreSQL、Redis
+- 了解 Docker、CI/CD
+- 有独立端到端交付能力

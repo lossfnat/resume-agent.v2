@@ -1,0 +1,15 @@
+职位：React 前端开发工程师
+
+岗位职责：
+1. 负责公司 Web 应用前端开发
+2. 基于 React + TypeScript 构建大型 SPA
+3. 优化前端性能，提升用户体验
+4. 参与前端工程化体系建设
+
+任职要求：
+- 2 年以上前端开发经验
+- 精通 React、TypeScript
+- 熟悉 Next.js、Vue 加分
+- 了解 Node.js / Express 加分
+- 熟悉 Webpack、Vite 构建工具
+- 有大型项目架构经验优先

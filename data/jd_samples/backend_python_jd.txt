@@ -1,0 +1,15 @@
+职位：Python 后端开发工程师
+
+岗位职责：
+1. 负责 AI 平台后端 API 开发
+2. 基于 FastAPI / Django 构建高性能服务
+3. 设计 RESTful API 接口规范
+4. 与前端、算法团队协作完成产品落地
+
+任职要求：
+- 2 年以上 Python 后端开发经验
+- 熟悉 FastAPI、Django、Flask 框架
+- 熟悉 PostgreSQL、MySQL、Redis
+- 了解 Docker、Kubernetes、CI/CD
+- 有高并发系统开发经验加分
+- 熟悉 Kafka、RabbitMQ 消息队列优先
